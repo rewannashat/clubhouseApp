@@ -225,7 +225,7 @@ class RoomScreen extends StatelessWidget {
                     child: const Icon(CupertinoIcons.add, size: 30.0),
                   ),
                 ),
-                const SizedBox(width: 16.0),
+                 SizedBox(width: 16.0),
                 GestureDetector(
                   onTap: () {},
                   child: Container(
